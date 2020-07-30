@@ -7,6 +7,13 @@
 </h4>
 
 <p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<p align="center">
   <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
 
@@ -23,3 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/3YHNUfCViLZyoU7bTvCr6x/Be-The-Hero-OmniStack-11?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
+## 💻 Projeto
+
+O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
